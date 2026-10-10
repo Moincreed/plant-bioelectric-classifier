@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+# generated large files (recreate with: python run_all.py)
+data/synthetic_plant_data.csv
